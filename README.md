@@ -27,16 +27,16 @@ M4GT-Bench: **M**ultilingual, **M**ultidomain, and **M**ulti-generator corpus of
 #### Task 1 Results
 ##### Monolingual
 
-<p align="left"> <img src="assets/subtaskA_monolingual.jpeg" style="width: 50%;" id="title-icon"></p>
+<p align="center"> <img src="assets/subtaskA_monolingual.jpeg" style="width: 50%;" id="title-icon"></p>
 
 ##### Multilingual
-<p align="left"> <img src="assets/subtaskA_multilingual.jpeg" style="width: 50%;" id="title-icon"></p>
+<p align="center"> <img src="assets/subtaskA_multilingual.jpeg" style="width: 50%;" id="title-icon"></p>
 
 #### Task 2 Results
-<p align="left"> <img src="assets/subtaskB.jpeg" style="width: 50%;" id="title-icon"></p>
+<p align="center"> <img src="assets/subtaskB.jpeg" style="width: 50%;" id="title-icon"></p>
 
 #### Task 3 Results
-<p align="left"> <img src="assets/subtaskC.jpeg" style="width: 80%;" id="title-icon"></p>
+<p align="center"> <img src="assets/subtaskC.jpeg" style="width: 80%;" id="title-icon"></p>
 
 ## Human Evaluation
 
