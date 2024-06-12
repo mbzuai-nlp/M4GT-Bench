@@ -1,7 +1,7 @@
 # M4GT-Bench: Evaluation Benchmark for Black-Box Machine-Generated Text Detection
 <p align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center">
 📄 <a href="https://arxiv.org/pdf/2402.11175" target="_blank" style="margin-right: 15px; margin-left: 10px">Paper</a> • 
-🤗 <a href="" target="_blank" style="margin-left: 10px">Dataset</a> •  
+🤗 <a href="https://drive.google.com/drive/folders/1hBgW6sgZfz1BK0lVdUu0bZ4HPKSpOMSY?usp=sharing" target="_blank" style="margin-left: 10px">Dataset</a> •  
 🔱 <a href="" target="_blank" style="margin-left: 10px">Detector</a>
 </p>
 
