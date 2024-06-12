@@ -27,26 +27,26 @@ M4GT-Bench: **M**ultilingual, **M**ultidomain, and **M**ulti-generator corpus of
 #### Task 1 Results
 ##### Monolingual
 
-<p align="center"> <img src="assets/subtaskA_monolingual" style="width: 80%;" id="title-icon"></p>
+<p align="center"> <img src="assets/subtaskA_monolingual.jpeg" style="width: 80%;" id="title-icon"></p>
 
 ##### Multilingual
-<p align="center"> <img src="assets/subtaskA_multilingual" style="width: 80%;" id="title-icon"></p>
+<p align="center"> <img src="assets/subtaskA_multilingual.jpeg" style="width: 80%;" id="title-icon"></p>
 
 #### Task 2 Results
-<p align="center"> <img src="assets/subtaskB" style="width: 80%;" id="title-icon"></p>
+<p align="center"> <img src="assets/subtaskB.jpeg" style="width: 80%;" id="title-icon"></p>
 
 #### Task 3 Results
-<p align="center"> <img src="assets/subtaskC" style="width: 80%;" id="title-icon"></p>
+<p align="center"> <img src="assets/subtaskC.jpeg" style="width: 80%;" id="title-icon"></p>
 
 ## Human Evaluation
 
 #### Sampling
 We split 140 examples into four groups, each involving three domains and four generators, with 48 examples including five demonstrations for learning.
 
-<p align="center"> <img src="assets/human_eval.png" style="width: 80%;" id="title-icon"></p>
+<p align="center"> <img src="assets/human_eval.jpeg" style="width: 80%;" id="title-icon"></p>
 
 #### Results
-<p align="center"> <img src="assets/human_eval_results.png" style="width: 80%;" id="title-icon"></p>
+<p align="center"> <img src="assets/human_eval_results.jpeg" style="width: 80%;" id="title-icon"></p>
 
 
 ## Citation
